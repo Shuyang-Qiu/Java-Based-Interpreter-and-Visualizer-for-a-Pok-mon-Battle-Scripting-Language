@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Pokemon Phase 6",
+      "request": "launch",
+      "mainClass": "Main",
+      "vmArgs": "--module-path /Users/admin/Downloads/javafx-sdk-21.0.11/lib --add-modules javafx.controls",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

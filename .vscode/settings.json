@@ -1,0 +1,15 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.referencedLibraries": [
+    "/Users/admin/Downloads/javafx-sdk-21.0.11/lib/*.jar"
+  ],
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "/usr/local/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home",
+      "default": true
+    }
+  ]
+}
